@@ -1,1 +1,1 @@
-    Cards animados usando css puro,
+    Cards animados usando css puro.
